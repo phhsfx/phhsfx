@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @phhsfx.
+- 👀 I’m interested: in get my first job
+- 🌱 I’m currently learning: HTML, CSS, Js, Php and Python
+- 📫 How to reach me: Email ph.sfx5442@gmail.com
+- ⚡ Fun fact: I like cheese 😁
